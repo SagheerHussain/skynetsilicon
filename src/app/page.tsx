@@ -17,7 +17,7 @@ export default function HomePage() {
           >
             <PanelsTopLeft className="w-6 h-6 mr-3" />
             <span className="font-bold">Skynet silicon</span>
-            <span className="sr-only">Skynet silicon</span>
+            <span className="sr-only">Skynet</span>
           </Link>
           <nav className="ml-auto flex items-center gap-2">
             <Button
