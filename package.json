@@ -1,8 +1,11 @@
 {
+  "homepage": "https://SagheerHussain.github.io/skynetsilicon",
   "name": "shadcn-sidebar",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "next build && next export",
+    "deploy": "gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -23,6 +26,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "geist": "^1.3.0",
+    "gh-pages": "^6.2.0",
     "immer": "^10.1.1",
     "lucide-react": "^0.377.0",
     "next": "14.2.3",
