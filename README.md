@@ -1,6 +1,6 @@
-# [shadcn/ui sidebar](https://shadcn-ui-sidebar.salimi.my) &middot; [![Author Salimi](https://img.shields.io/badge/Author-Salimi-%3C%3E)](https://www.salimi.my)
+# [shadcn/ui sidebar](https://SagheerHussain.github.io/skynetsilicon) &middot;
 
-A stunning and functional retractable sidebar for Next.js built on top of [shadcn/ui](https://ui.shadcn.com) complete with desktop and mobile responsiveness.
+
 
 ## Features
 
@@ -80,10 +80,8 @@ export default function Page() {
    ```
 
 ## Demo
-
-The app is hosted on Vercel. [Click here](https://shadcn-ui-sidebar.salimi.my) to visit.
 <br>
-Direct demo link: `https://shadcn-ui-sidebar.salimi.my`
+
 
 ## Screenshots
 
