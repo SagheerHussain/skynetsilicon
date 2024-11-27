@@ -1,8 +1,11 @@
 {
-  "name": "shadcn-sidebar",
+  "homepage": "https://SagheerHussain.github.io/skynetsilicon",
+  "name": "skynet silicon",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "next build && next export",
+    "deploy": "gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
